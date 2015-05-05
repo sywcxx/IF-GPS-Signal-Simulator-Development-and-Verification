@@ -8,7 +8,7 @@
    * [论文结构](chapter1/1.4 论文结构.md)
 * 第二章 GPS信号和接收机理论
    * [GPS信号](chapter2/2.1 GPS信号.md)
-      * [GPS信号结构](chapter2/section1/2.1.1 GPS信号结构.md)
+      * [GPS信号结构](chapter2/2.1.1 GPS信号结构.md)
 * 第三章
    * [第1节](chapter3/GPS中频模拟器的实现.md)
 
