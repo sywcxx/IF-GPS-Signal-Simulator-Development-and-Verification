@@ -10,6 +10,8 @@
    * [GPS信号](chapter2/2.1 GPS信号.md)
       * [GPS信号结构](chapter2/2.1.1 GPS信号结构.md)
 	  * [GPS信号功率水平](chapter2/2.1.2 GPS信号功率水平.md)
+	  * [频域上的L1CA码信号](chapter2/2.1.3 频域上的L1CA码信号.md)
+	  * [CA码的自相关和互相关特性](chapter2/2.1.4 CA码的自相关和互相关特性.md)
 * 第三章
    * [第1节](chapter3/GPS中频模拟器的实现.md)
 
